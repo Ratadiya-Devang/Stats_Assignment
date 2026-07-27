@@ -1,0 +1,31 @@
+RestaurantName,City,Cuisine,Rating,CostForTwo,DeliveryTimeMin
+Spice Junction,Bangalore,North Indian,4.2,400,35
+Pizza Villa,Mumbai,Italian,3.9,600,40
+Curry Leaf,Delhi,South Indian,4.5,300,25
+Burger Barn,Bangalore,American,4.0,350,30
+Dragon Wok,Pune,Chinese,3.8,450,38
+Tandoori Nights,Hyderabad,North Indian,4.3,500,32
+Sushi Central,Mumbai,Japanese,4.6,900,45
+Biryani House,Hyderabad,Biryani,4.7,350,28
+Taco Fiesta,Delhi,Mexican,3.7,400,35
+Noodle Bar,Bangalore,Chinese,4.1,300,27
+Cafe Mocha,Pune,Continental,4.0,500,30
+Punjabi Dhaba,Chandigarh,North Indian,4.4,350,25
+Kebab Corner,Delhi,Mughlai,4.2,450,33
+Pasta Point,Mumbai,Italian,3.6,550,42
+Rolls Royce,Kolkata,Street Food,4.3,200,20
+South Spice,Chennai,South Indian,4.6,250,22
+Grill Master,Bangalore,BBQ,4.0,650,40
+Dosa Corner,Chennai,South Indian,4.5,200,18
+Chaat Bhandar,Delhi,Street Food,4.1,150,15
+Wok This Way,Pune,Chinese,3.9,400,36
+Meat and Greet,Hyderabad,BBQ,4.2,700,38
+Bake House,Mumbai,Bakery,4.4,300,25
+Momos Point,Delhi,Tibetan,4.0,200,20
+Andhra Mess,Hyderabad,Andhra,4.5,250,24
+Royal Biryani,Bangalore,Biryani,4.3,400,30
+Sweet Tooth,Kolkata,Desserts,4.2,150,18
+Punjabi Rasoi,Chandigarh,North Indian,3.8,350,28
+Thai Spice,Mumbai,Thai,4.1,550,40
+Vegan Delight,Bangalore,Healthy,3.9,450,35
+Kerala Kitchen,Chennai,South Indian,4.4,300,26
